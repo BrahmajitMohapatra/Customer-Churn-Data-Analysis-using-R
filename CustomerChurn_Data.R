@@ -1,4 +1,4 @@
-cuschurn <- read.csv("E:/Backup.exe/7th sem/R predictive/predict-churn-py-main/predict-churn-py-main/customer_churn_data.csv")
+cuschurn <- read.csv("E:/customer_churn_data.csv")
 
 summary(cuschurn)
 unique(cuschurn$gender)
